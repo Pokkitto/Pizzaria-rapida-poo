@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module/Module.iml" filepath="$PROJECT_DIR$/Module/Module.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pizzaria-rapida-poo.iml" filepath="$PROJECT_DIR$/.idea/Pizzaria-rapida-poo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/View/View.iml" filepath="$PROJECT_DIR$/View/View.iml" />
     </modules>
   </component>
 </project>
